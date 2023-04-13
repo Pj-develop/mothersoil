@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mothersoil/static/css/main.0cb956e0.css",
+    "main.js": "/mothersoil/static/js/main.0fec9749.js",
+    "static/media/whySoilImportant.mp4": "/mothersoil/static/media/whySoilImportant.19ca7af1cebb21920b92.mp4",
+    "static/media/mainimage.jpg": "/mothersoil/static/media/mainimage.687a3c428ad05f4221cf.jpg",
+    "static/media/soilErosionMain.jpg": "/mothersoil/static/media/soilErosionMain.f4e08533d4dc3adfc03d.jpg",
+    "static/media/soilDefault.jpg": "/mothersoil/static/media/soilDefault.b57cd3068a7b6ee47521.jpg",
+    "static/media/joshimath.jpg": "/mothersoil/static/media/joshimath.2ac6ea111f8f65a8eb44.jpg",
+    "index.html": "/mothersoil/index.html",
+    "main.0cb956e0.css.map": "/mothersoil/static/css/main.0cb956e0.css.map",
+    "main.0fec9749.js.map": "/mothersoil/static/js/main.0fec9749.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cb956e0.css",
+    "static/js/main.0fec9749.js"
+  ]
+}
